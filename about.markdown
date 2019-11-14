@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This blog is, perhaps obviously, targeted toward those wondering what comes next. The three of us graduated with engineering degrees in May, 2019, but have a degree of disillusionment with the life we've been working toward for five years. This blog is what we would have wanted to tell ourselves about what to expect for, how to transition into, and how to best usher in What Comes Next.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+For now, "what comes next" is mainly referring to post-college life, the so-called "real-world".
 
 
-[jekyll-organization]: https://github.com/jekyll
